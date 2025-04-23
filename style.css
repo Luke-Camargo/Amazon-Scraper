@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  input {
+    width: 70%;
+    padding: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-left: 10px;
+  }
+  
+  #results {
+    margin-top: 20px;
+  }
+  
+  .product {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+  }
+  
+  .product img {
+    width: 100px;
+    vertical-align: middle;
+    margin-right: 10px;
+  }
+  
